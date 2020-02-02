@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "orgadmahluf.github.io/test4/static/css/main.efd71899.chunk.css",
+    "main.js": "orgadmahluf.github.io/test4/static/js/main.81a2ce45.chunk.js",
+    "main.js.map": "orgadmahluf.github.io/test4/static/js/main.81a2ce45.chunk.js.map",
+    "runtime-main.js": "orgadmahluf.github.io/test4/static/js/runtime-main.7f8bd2d4.js",
+    "runtime-main.js.map": "orgadmahluf.github.io/test4/static/js/runtime-main.7f8bd2d4.js.map",
+    "static/css/2.67123b20.chunk.css": "orgadmahluf.github.io/test4/static/css/2.67123b20.chunk.css",
+    "static/js/2.e4279697.chunk.js": "orgadmahluf.github.io/test4/static/js/2.e4279697.chunk.js",
+    "static/js/2.e4279697.chunk.js.map": "orgadmahluf.github.io/test4/static/js/2.e4279697.chunk.js.map",
+    "index.html": "orgadmahluf.github.io/test4/index.html",
+    "precache-manifest.7ae06e7612dc5b84d10cea751ccf7b1d.js": "orgadmahluf.github.io/test4/precache-manifest.7ae06e7612dc5b84d10cea751ccf7b1d.js",
+    "service-worker.js": "orgadmahluf.github.io/test4/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "orgadmahluf.github.io/test4/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.efd71899.chunk.css.map": "orgadmahluf.github.io/test4/static/css/main.efd71899.chunk.css.map",
+    "static/js/2.e4279697.chunk.js.LICENSE": "orgadmahluf.github.io/test4/static/js/2.e4279697.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f8bd2d4.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.e4279697.chunk.js",
+    "static/css/main.efd71899.chunk.css",
+    "static/js/main.81a2ce45.chunk.js"
+  ]
+}
