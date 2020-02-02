@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "shemSvcollege.github.io/TestSvcollege/static/css/main.0ce0b383.chunk.css",
+    "main.js": "shemSvcollege.github.io/TestSvcollege/static/js/main.c464015c.chunk.js",
+    "main.js.map": "shemSvcollege.github.io/TestSvcollege/static/js/main.c464015c.chunk.js.map",
+    "runtime-main.js": "shemSvcollege.github.io/TestSvcollege/static/js/runtime-main.559b661c.js",
+    "runtime-main.js.map": "shemSvcollege.github.io/TestSvcollege/static/js/runtime-main.559b661c.js.map",
+    "static/css/2.67123b20.chunk.css": "shemSvcollege.github.io/TestSvcollege/static/css/2.67123b20.chunk.css",
+    "static/js/2.7cf32c17.chunk.js": "shemSvcollege.github.io/TestSvcollege/static/js/2.7cf32c17.chunk.js",
+    "static/js/2.7cf32c17.chunk.js.map": "shemSvcollege.github.io/TestSvcollege/static/js/2.7cf32c17.chunk.js.map",
+    "index.html": "shemSvcollege.github.io/TestSvcollege/index.html",
+    "precache-manifest.c9950cd419b72f206eaebaff31adda4a.js": "shemSvcollege.github.io/TestSvcollege/precache-manifest.c9950cd419b72f206eaebaff31adda4a.js",
+    "service-worker.js": "shemSvcollege.github.io/TestSvcollege/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "shemSvcollege.github.io/TestSvcollege/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.0ce0b383.chunk.css.map": "shemSvcollege.github.io/TestSvcollege/static/css/main.0ce0b383.chunk.css.map",
+    "static/js/2.7cf32c17.chunk.js.LICENSE": "shemSvcollege.github.io/TestSvcollege/static/js/2.7cf32c17.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.559b661c.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.7cf32c17.chunk.js",
+    "static/css/main.0ce0b383.chunk.css",
+    "static/js/main.c464015c.chunk.js"
+  ]
+}
